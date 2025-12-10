@@ -1,0 +1,12 @@
+{
+  "description": "Chat Room",
+  "domain": "is-cool.dev",
+  "subdomain": "chat-room",
+  "owner": {
+    "repo": "https://github.com/adiz67/chat-app",
+    "email": "adityaazambre@gmail.com"
+  },
+  "record": {
+    "CNAME": "adiz67.github.io"
+  }
+}
